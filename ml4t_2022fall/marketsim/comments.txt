@@ -1,0 +1,54 @@
+<pre>--- Summary ---
+Tests passed: 1 out of 13
+
+--- Details ---
+Test #0: failed 
+Test case description: Orders 1
+KeyError: -1
+
+Test #1: failed 
+Test case description: Orders 2
+KeyError: -1
+
+Test #2: failed 
+Test case description: Orders 3
+KeyError: -1
+
+Test #3: failed 
+Test case description: Orders 4
+KeyError: -1
+
+Test #4: failed 
+Test case description: Orders 5
+KeyError: -1
+
+Test #5: failed 
+Test case description: Orders 6
+KeyError: -1
+
+Test #6: failed 
+Test case description: Orders 7
+KeyError: -1
+
+Test #7: failed 
+Test case description: Orders 8
+KeyError: -1
+
+Test #8: failed 
+Test case description: Orders 9
+KeyError: -1
+
+Test #9: failed 
+Test case description: Orders 11, commission
+KeyError: -1
+
+Test #10: failed 
+Test case description: Orders 12, impact
+KeyError: -1
+
+Test #11: failed 
+Test case description: Orders 10, impact and commission
+KeyError: -1
+
+Test #12: passed 
+</pre>
